@@ -13,5 +13,5 @@ QuickOpen is a WIP-script made in VBscript for **Windows 10**
 ##### WINDOWS 11 DOES NOT WORK
 
 ## TO USE
-##### Edit the QuickOpen.vbs file and follow the instructions
+##### Edit the QuickOpen.vbs file and follow the instructions in the file
 ### Happy Coding!
