@@ -2,15 +2,14 @@
 ### About Quickopen
 QuickOpen is a WIP-script made in VBscript for **Windows 10**
 ## Minimum Requirements
-> OS: Windows 7 *(Not tested)*
+> OS: Windows 10 *(Reccomended)*
 
-> Ram: 10Mb *(Not recommended)*
+> Ram: 100Mb *(Not recommended, you should have more... its 2022)*
 ##### DO NOT USE WINDOWS 8, IT BREAKS
-## Maximum Requirements
-> OS: **Windows 10** *(Tested)*
 
 > Ram: **inf** *(whatever you have)*
-##### WINDOWS 11 DOES NOT WORK
+#### Windows 11 now works
+
 
 ## TO USE
 ##### Edit the QuickOpen.vbs file and follow the instructions in the file
